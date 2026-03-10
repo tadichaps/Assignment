@@ -1,0 +1,6 @@
+{
+    "drone_id": "DR-101",
+    "battery_level": 90,
+    "internal_temperature": 25,
+    "type": "DeliveryDrone"
+}
