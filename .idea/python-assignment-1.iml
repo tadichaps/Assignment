@@ -3,9 +3,11 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/PythonProject4/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/PythonProject6/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/Question/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/Question1/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/Question2/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Question3/.venv" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
