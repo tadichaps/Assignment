@@ -9,6 +9,7 @@
       <excludeFolder url="file://$MODULE_DIR$/Question2/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/Question3/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/Question 1/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Question 3/.venv" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
